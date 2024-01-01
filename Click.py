@@ -1,4 +1,4 @@
 def click():
-    print("click odelya")
+    print("click")
 
 
