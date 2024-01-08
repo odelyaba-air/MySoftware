@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (MySoftware) (3)" />
+  </component>
+=======
+>>>>>>> de49d93 (Initial commit)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (MySoftware) (3)" />
+  </component>
+>>>>>>> eebf23e (second commit)
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (MySoftware) (3)" />
+  </component>
+>>>>>>> NewScreen
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (MySoftware) (3)" project-jdk-type="Python SDK" />
 </project>
